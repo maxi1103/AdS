@@ -1,0 +1,15 @@
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\bin\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\bin\Debug\Util.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\obj\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\obj\Debug\Util.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\bin\Debug\itextsharp.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Util\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\bin\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\bin\Debug\Util.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\obj\Debug\Util.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\obj\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Util\obj\Debug\Util.pdb

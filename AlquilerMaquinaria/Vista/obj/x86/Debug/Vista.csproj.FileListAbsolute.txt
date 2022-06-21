@@ -1,0 +1,34 @@
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\Vista.exe
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\Vista.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\Util.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.ABMCliente.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.exe
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.ABMMaquinaria.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.RegistrarAlquiler.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.Principal.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\AlquilerMaquinaria\Vista\bin\Debug\itextsharp.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.exe
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\Vista.exe
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\Vista.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\ClasesBase.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\Util.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\itextsharp.dll
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\ClasesBase.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\bin\Debug\Util.pdb
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.csprojResolveAssemblyReference.cache
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.ABMCliente.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.ABMMaquinaria.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.Principal.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.Properties.Resources.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.RegistrarAlquiler.resources
+C:\Users\PC\Downloads\APU\AyDSII\Unidad VI\TP5AnalisisII\AlquilerMaquinaria\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.csproj.GenerateResource.Cache
+C:\Users\maxi\Desktop\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.exe
+C:\Users\maxi\Desktop\AlquilerMaquinaria\Vista\obj\x86\Debug\Vista.pdb
